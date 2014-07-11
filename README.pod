@@ -1,13 +1,15 @@
 =encoding utf8
 
-=head1 The One with the Fountainhead
+=head1 The Muppets Show - The New Incarnation
 
 =head2 About
 
-This repository contains the sources for “The One with the Fountainhead”,
-a two-part episode of the Television show I<Friends> that parodies the book
-I<The Fountainhead> by Ayn Rand. The text for the script is mostly original
-by Shlomi Fish ( L<http://www.shlomifish.org/> ).
+This repository contains the sources for some screenplays of show
+in a format similar to L<https://en.wikipedia.org/wiki/The_Muppet_Show>
+with modern ( ~2014 ) cultural references.
+
+The text for them is mostly original by Shlomi Fish
+( L<http://www.shlomifish.org/> ).
 
 =head2 Links
 
@@ -15,13 +17,13 @@ by Shlomi Fish ( L<http://www.shlomifish.org/> ).
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/TOWTF/>
+L<http://www.shlomifish.org/humour/The-Muppet-Show--TNI/>
 
 =back
 
 =head2 Building
 
-Go to C<TOW_Fountainhead/screenplay/> and type C<make> .
+Go to C<Muppet-Show-TNI/screenplay/> and type C<make> .
 
 =cut
 
