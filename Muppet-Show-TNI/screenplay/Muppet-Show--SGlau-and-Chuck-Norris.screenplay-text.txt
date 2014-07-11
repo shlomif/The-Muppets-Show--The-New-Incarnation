@@ -16,10 +16,10 @@ Reich. Also crossover of <a href="http://xkcd.com/406/">xkcd: “Venting”</a>
 and <a href="http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/">Chuck
 Norris Facts</a>.]
 
-[This text is Copyright by Shlomi Fish, 2013 and is
+[This text is Copyright by Shlomi Fish, 2014 and is
 made available under the
-<a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
-Attribution-ShareAlike 3.0 Unported Licence (CC-by)</a>
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
 (or at your option - any later version).]
 
 </s>
