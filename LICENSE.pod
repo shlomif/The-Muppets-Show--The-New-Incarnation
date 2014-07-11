@@ -4,15 +4,11 @@
 
 =head2 Text
 
-The text for the screenplay “The One with The Fountainhead” is original,
-but it makes use of characters and concepts from both the Television
-show I<Friends> ( L<http://en.wikipedia.org/wiki/Friends> ) created
-by David Crane and Marta Kauffman, and the book I<The Fountainhead>
-( L<http://en.wikipedia.org/wiki/The_Fountainhead> ) by Ayn Rand, as well
-as some other influences.
+The text for these screenplays is original, but makes use of many characters
+and concepts owned by various content owners.
 
 As far as I am concerned, the blanket licence for the text is
-the L<http://creativecommons.org/licenses/by-sa/3.0/> (Unported), either
-version 3.0 or at your option any later version.
+the L<http://creativecommons.org/licenses/by-nc-sa/4.0/> (Unported), either
+version 4.0 or at your option any later version.
 
 =cut
