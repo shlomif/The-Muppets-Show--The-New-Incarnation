@@ -120,15 +120,16 @@ body
 EOF
 }
 
-foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
+my $base_part = 'Muppet-Show--';
+foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
 {
-    my $epub_basename = "TOW_Fountainhead_$part";
+    my $epub_basename = "$base_part$part";
     my $json_filename = "$epub_basename.json";
     io->file($target_dir . '/' . $json_filename)->utf8->print(
         encode_json(
             {
                 filename => $epub_basename,
-                title => qq/The One with The Fountainhead - Part $part/,
+                title => qq/The Muppet Show - Part $part/,
                 authors =>
                 [
                     {
