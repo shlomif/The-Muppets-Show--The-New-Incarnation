@@ -1,0 +1,27 @@
+=encoding utf8
+
+=head1 The One with the Fountainhead
+
+=head2 About
+
+This repository contains the sources for “The One with the Fountainhead”,
+a two-part episode of the Television show I<Friends> that parodies the book
+I<The Fountainhead> by Ayn Rand. The text for the script is mostly original
+by Shlomi Fish ( L<http://www.shlomifish.org/> ).
+
+=head2 Links
+
+=over 4
+
+=item * Homepage
+
+L<http://www.shlomifish.org/humour/TOWTF/>
+
+=back
+
+=head2 Building
+
+Go to C<TOW_Fountainhead/screenplay/> and type C<make> .
+
+=cut
+
