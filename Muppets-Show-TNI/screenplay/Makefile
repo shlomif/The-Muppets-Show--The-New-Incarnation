@@ -5,7 +5,7 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 # The-Enemy-English.xhtml \
 
-DOCS_BASE = Muppet-Show--Summer-Glau-and-Chuck-Norris Muppet-Show--Jennifer-Lawrence
+DOCS_BASE = Muppets-Show--Summer-Glau-and-Chuck-Norris Muppets-Show--Jennifer-Lawrence
 
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
