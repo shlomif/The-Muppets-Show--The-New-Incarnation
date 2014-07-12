@@ -195,6 +195,7 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
         system (@cmd)
             and die "cannot run ebookmaker - $!";
 
+        unlink(glob('./scene*.xhtml'));
         chdir ($orig_dir);
     }
 
