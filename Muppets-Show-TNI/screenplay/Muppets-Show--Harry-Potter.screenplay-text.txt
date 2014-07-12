@@ -35,6 +35,34 @@ which happens sometimes at present. Hope you enjoy it.
 
 </s>
 
+<s id="do_it_all_with_love" title="“Do It All With Love”">
+
+[<a href="https://en.wikipedia.org/wiki/Paul_McCartney">Paul McCartney</a>
+sings a modernised version of
+<a href="https://en.wikipedia.org/wiki/All_You_Need_Is_Love">“All You Need
+Is Love”</a> titled “Do It All With Love” - same music - different
+lyrics - accompanied by the Muppets’ band and the episode’s cast and
+audience.]
+
+Song Lyrics: Everything you do, really should be done<br />
+Everything you can sing, ought to be sung<br />
+You can say a lot, but remember one thing,<br />
+It’s easy
+
++++: Everything you make, was well-made,<br />
+Many people in the world that you have saved,<br />
+Anything you do is something that is yours and everyone's<br />
+It’s easy
+
+Chorus: Do it all with love<br />
+Do it all with love<br />
+Do it all with love, love<br />
+Love in all you do!
+
+
+
+</s>
+
 <!-- / summerschool-at-the-NSA (Main) -->
 
 </s>
