@@ -1,16 +1,19 @@
-<s id="muppets-with-Jenn-Lawrence" title="The Muppets’ Show (The New Incarnation) With Jennifer Lawrence">
+<s id="muppets-with-Harry-Potter" title="The Muppets’ Show (The New Incarnation) about Harry Potter">
 
 <s id="about" title="About this screenplay">
 
-[The Muppets’ Show (The New Incarnation) With Jennifer Lawrence
+[The Muppets’ Show (The New Incarnation) About Harry Potter
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
 is original artwork.]
 
-[Abstract: Jennifer Lawrence (JLaw) is the guest of
-the Muppets’ Show
-as a psychologist giving diet advice.]
+[Abstract: <a href="http://harrypotter.wikia.com/wiki/Harry_Potter">Harry</a>
+and <a href="http://harrypotter.wikia.com/wiki/Hermione_Granger">Hermione</a>
+are on a mission to vanquish “He who must not be named 2” a.k.a
+<a href="http://muppet.wikia.com/wiki/The_Amazing_Mumford">The
+Amazing Mumford</a>, who is a very deadly Dark Arts magician, who bores
+everyone to death.]
 
 [This text is Copyright by Shlomi Fish, 2014 and is
 made available under the
@@ -20,31 +23,15 @@ Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
 
 </s>
 
-<s id="meet_chuck" title="“Yes, pig out.”">
+<s id="harry_and_hermione_s_mission" title="Harry and Hermione’s Mission">
 
-[JLaw is a Psychologist. Miss Piggy enters.
-]
+[ <a href="https://en.wikipedia.org/wiki/J._K._Rowling">J. K. Rowling</a> (=
+“JKR”) is sitting among children, adults, and muppets, telling a new story. ]
 
-Miss Piggy: Oh, Dr. Lawrence! I am at a total loss. I am trying to lose
-weight. Oh please, can you give me any diet advice?
+JKR: Today I’m going to tell you a new story about Harry Potter and Hermione,
+which happens sometimes at present. Hope you enjoy it.
 
-JLaw: Of course, Miss Piggy! My approach to dieting is to eat a lot.
-
-+++: Here: [she hands Miss Piggy a tray of Pizza] eat the whole thing.
-
-Miss Piggy: You mean the two of us?
-
-JLaw: No, I have my own tray. Let’s pig out.
-
-Miss Piggy: [Angry] “Pig out”?!! No one tells moi to pig out. [Prepares her
-Karate chop.]
-
-[JLaw hits Miss Piggy repeatedly with a longbow.
-
-Miss Piggy passes out.]
-
-JLaw: Damn it! Such a waste of a good bowstring. Whatever. [She returns to
-eating the pizza.]
+[The crowd says “Yay!”.]
 
 </s>
 
