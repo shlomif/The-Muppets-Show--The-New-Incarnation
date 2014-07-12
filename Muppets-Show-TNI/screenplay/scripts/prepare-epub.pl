@@ -120,7 +120,7 @@ body
 EOF
 }
 
-my $base_part = 'Muppet-Show--';
+my $base_part = 'Muppets-Show--';
 foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
 {
     my $epub_basename = "$base_part$part";
@@ -129,7 +129,7 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
         encode_json(
             {
                 filename => $epub_basename,
-                title => qq/The Muppet Show - Part $part/,
+                title => qq/The Muppets Show - Part $part/,
                 authors =>
                 [
                     {
