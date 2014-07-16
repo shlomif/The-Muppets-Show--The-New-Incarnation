@@ -141,6 +141,7 @@ Alright, we’ll give you two another chance.
 ChuckN: Yay!
 
 [Cut to the new office with a new sign of “Don’t be venting - be perfecting.”]
+
 [<b>TODO:</b> Add:
 
 1. "Stop Summer-time!" by M.C. Summer (<a href="https://www.youtube.com/watch?v=otCpCn0l4Wo">M.C. Hammer’s “Stop! Hammer Time”</a> parody).
@@ -159,9 +160,11 @@ Hart’s “7 minutes”</a>.
 
 ]
 
+<!-- / venting_is_us -->
+
 </s>
 
-<!-- / summerschool-at-the-NSA (Main) -->
+<!-- / muppets-with-SGlau-and-Chuck -->
 
 </s>
 
