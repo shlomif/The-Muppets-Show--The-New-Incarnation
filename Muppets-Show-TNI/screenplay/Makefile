@@ -7,9 +7,9 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 DOCS_BASE = Muppets-Show--Harry-Potter Muppets-Show--Summer-Glau-and-Chuck-Norris Muppets-Show--Jennifer-Lawrence
 
-include screenplays_common.mak
-
 SELINA_UPLOAD_TEMP_DEST = temp-muppets-show-tni-LrE32Pnbw800
+
+include screenplays_common.mak
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
