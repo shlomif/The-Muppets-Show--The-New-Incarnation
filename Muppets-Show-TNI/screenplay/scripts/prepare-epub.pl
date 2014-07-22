@@ -52,31 +52,6 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
                     scheme => 'URL',
                     value => 'http://www.shlomifish.org/humour/Muppets-Show-TNI/',
                 },
-                contents =>
-                [
-                    {
-                        "type" => "toc",
-                        "source" => "toc.html"
-                    },
-                    {
-                        type => 'text',
-                        source => "scene-*.xhtml",
-                    },
-                ],
-                toc  => {
-                    "depth" => 2,
-                    "parse" => [ "text", ],
-                    "generate" => {
-                        "title" => "Index"
-                    },
-                },
-                guide => [
-                    {
-                        type => "toc",
-                        title => "Index",
-                        href => "toc.html",
-                    },
-                ],
             },
         },
     );
