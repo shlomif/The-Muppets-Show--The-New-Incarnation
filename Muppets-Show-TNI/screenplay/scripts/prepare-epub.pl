@@ -28,7 +28,7 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
         encode_json(
             {
                 filename => $epub_basename,
-                title => qq/The Muppets Show - Part $part/,
+                title => qq/The Muppets Show - The Next Incarnation - Part $part/,
                 authors =>
                 [
                     {
@@ -44,14 +44,14 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
-                subjects => [ 'FICTION/Horror', 'FICTION/Humorous', 'FICTION/Masups', ],
+                subjects => [ 'FICTION/Humorous', 'FICTION/Mashups', ],
                 identifier =>
                 {
                     scheme => 'URL',
-                    value => 'http://www.shlomifish.org/humour/TOWTF/',
+                    value => 'http://www.shlomifish.org/humour/Muppets-Show-TNI/',
                 },
                 contents =>
                 [
