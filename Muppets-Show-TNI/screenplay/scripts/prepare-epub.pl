@@ -23,8 +23,8 @@ my $base_part = 'Muppets-Show--';
 foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
 {
     my $epub_basename = "$base_part$part";
-    my $json_filename = "$epub_basename.json";
-    io->file($target_dir . '/' . $json_filename)->utf8->print(
+    $obj->epub_basename($epub_basename);
+    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
         encode_json(
             {
                 filename => $epub_basename,
@@ -82,21 +82,5 @@ foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
         ),
     );
 
-    my $orig_dir = io->curdir->absolute . '';
-
-    my $epub_fn = $epub_basename . ".epub";
-
-    {
-        chdir ($target_dir);
-
-        my @cmd = ("ebookmaker", "--output", $epub_fn, $json_filename);
-        print join(' ', @cmd), "\n";
-        system (@cmd)
-            and die "cannot run ebookmaker - $!";
-
-        unlink(glob('./scene*.xhtml'));
-        chdir ($orig_dir);
-    }
-
-    io->file("$target_dir/$epub_fn") > io->file($out_fn);
+    $obj->output_json;
 }
