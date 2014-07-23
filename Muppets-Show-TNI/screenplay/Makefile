@@ -2,5 +2,5 @@ DOCS_BASE = Muppets-Show--Harry-Potter Muppets-Show--Summer-Glau-and-Chuck-Norri
 
 SELINA_UPLOAD_TEMP_DEST = temp-muppets-show-tni-LrE32Pnbw800
 
-include screenplays_common.mak
+include $(SDIR)/screenplays_common.mak
 
