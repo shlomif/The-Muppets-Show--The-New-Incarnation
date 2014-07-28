@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="677.03918"
-   height="683.78717"
+   width="516.0625"
+   height="244"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
@@ -242,14 +242,14 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="-6"
-     inkscape:window-x="-4"
-     inkscape:window-height="1027"
-     inkscape:window-width="1920"
+     inkscape:window-y="0"
+     inkscape:window-x="244"
+     inkscape:window-height="590"
+     inkscape:window-width="772"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="436.90334"
-     inkscape:cx="279.36236"
+     inkscape:cy="147.22475"
+     inkscape:cx="446.08176"
      inkscape:zoom="1.4149866"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -258,7 +258,7 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="true"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-left="0"
      fit-margin-top="0"
      fit-margin-right="0"
@@ -270,8 +270,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-170.16122px"
-       originy="-24.450924px" />
+       originx="-200px"
+       originy="-356.00001px" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -288,33 +288,36 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-170.16122,-344.1241)">
-    <image
-       y="452.36218"
-       x="200"
-       id="image3243"
-       xlink:href="file:///home/shlomif/Docs/homepage/homepage/trunk/lib/screenplay-xml/from-vcs/The-Muppets-Show--The-New-Incarnation/Muppets-Show-TNI/graphics/logo/The_Muppet_Show_logo.png"
-       height="167"
-       width="300" />
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Audiowide;-inkscape-font-specification:Audiowide Italic"
-       x="310"
-       y="632.36218"
-       id="text3246"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan3248"
+     transform="translate(-200,-452.36218)">
+    <g
+       id="g3794">
+      <image
+         width="300"
+         height="167"
+         xlink:href="file:///home/shlomif/Docs/homepage/homepage/trunk/lib/screenplay-xml/from-vcs/The-Muppets-Show--The-New-Incarnation/Muppets-Show-TNI/graphics/logo/The_Muppet_Show_logo.png"
+         id="image3243"
+         x="200"
+         y="452.36218" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text3246"
+         y="632.36218"
          x="310"
-         y="632.36218">The Next</tspan><tspan
-         sodipodi:role="line"
-         x="310"
-         y="696.36218"
-         id="tspan3250">Incarnation</tspan></text>
+         style="font-size:64px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Audiowide;-inkscape-font-specification:Audiowide Italic"
+         xml:space="preserve"><tspan
+           y="632.36218"
+           x="310"
+           id="tspan3248"
+           sodipodi:role="line">The Next</tspan><tspan
+           id="tspan3250"
+           y="696.36218"
+           x="310"
+           sodipodi:role="line">Incarnation</tspan></text>
+    </g>
   </g>
   <g
      inkscape:label="Text"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(-170.16122,-344.1241)" />
+     transform="translate(-200,-452.36218)" />
 </svg>
