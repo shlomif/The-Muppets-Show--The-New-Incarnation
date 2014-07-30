@@ -31,7 +31,7 @@ Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
 ChuckN enters through the door.
 ]
 
-Kermit: Oh hello, Mr. Norris. We’re so glad to have you here and we would
+Kermit: Oh hello, Mr. Norris. We’re so glad to have you here, and we would
 love to learn more about you.
 
 ChuckN: Thank you, Kermit. You can learn more about me from my 500-page
@@ -40,14 +40,17 @@ book of Factoids about me, of which I wrote every one.
 
 Fozzy: Funny! Funny!
 
-ChuckN: Indeed. Anyway, I invited a friend of mine, who is even crazier than I am, to join us.
+ChuckN: Indeed. Anyway, I invited a friend of mine, who is even crazier than I
+am, to join us.
 
 Kermit: Really, who is this crazy guy?
 
 ChuckN: Actually, it’s a crazy girl.
 
 [SGlau jumps from above the frame to the upper row and then down to where
-Kermit and Fozzy are standing. Applause.]
+Kermit and Fozzy are standing. Applause. She is wearing a grey, military-like
+vest with <a href="https://en.wikipedia.org/wiki/Zipper">zipper</a> at
+the front.]
 
 Kermit: Oh, nice to see you here, Ms. Glau.
 
