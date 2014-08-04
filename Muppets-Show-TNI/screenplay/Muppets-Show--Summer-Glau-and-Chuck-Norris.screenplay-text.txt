@@ -86,11 +86,11 @@ Kermit: Meep. I have a bad feeling about all that.
 
 <s id="kicking_ass_grammar_nazi_style" title="Kicking ass Grammar Nazi Style">
 
-[Congregation of evil muppets (including the
+[Congregation of evil muppets (including
 <a href="http://muppet.wikia.com/wiki/The_Moopets">the Moopets</a>) with
 Grammar Nazi uniforms. SGlau and ChuckN are on the stage.
 
-SGlau first a gun in the air. The room falls silent.]
+SGlau fires a gun in the air. The room falls silent.]
 
 SGlau: Hail Grammar!
 
@@ -131,7 +131,7 @@ SGlau: [startled] Hail Grammar!
 Lucky Luke: Indeed. There is a change of plans so they sent me here.
 
 +++: Miss Glau, Mr. Norris and you must travel undercover to the evil
-state of California, where you will start the startup “Venting is us.” to
+State of California, where you will start the startup “Venting is us.” to
 battle the growing infestation of bad grammar on social Internet media. You
 will receive funding from the Grammar Nazi Gestapo.
 
