@@ -224,7 +224,8 @@ Mikhael: Good bye.
 SGlau: Hmmm… I think we are actually making a profit from all that.
 
 Head Mafio: OK, it seems you two have become benevolent pillars of
-society, so not only will we let you go, but we will offer you protection.
+society, so not only will we let you go, but we will offer you
+<a href="https://en.wikipedia.org/wiki/Protection_racket">protection</a>.
 
 SGlau: Really? For how much?
 
