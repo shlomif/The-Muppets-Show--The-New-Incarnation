@@ -49,7 +49,7 @@ ChuckN: Actually, it’s a crazy girl.
 
 [SGlau jumps from above the frame to the upper row and then down to where
 Kermit and Fozzy are standing. Applause. She is wearing a grey, military-like
-vest with <a href="https://en.wikipedia.org/wiki/Zipper">zipper</a> at
+vest with a <a href="http://en.wikipedia.org/wiki/Zipper">zipper</a> at
 the front.]
 
 Kermit: Oh, nice to see you here, Ms. Glau.
@@ -157,7 +157,7 @@ it?
 SGlau: How about as
 <a href="http://gilmoregirls.wikia.com/wiki/Rory_Gilmore">Rory Gilmore</a>?
 
-ChuckN: Sounds good. You can sign yours as <a href="https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt">Jennifer Love Hewitt</a>.
+ChuckN: Sounds good. You can sign yours as <a href="http://en.wikipedia.org/wiki/Jennifer_Love_Hewitt">Jennifer Love Hewitt</a>.
 
 SGlau: Cool.
 
@@ -168,7 +168,7 @@ Head Mafio: Are you Summer Glau and Chuck Norris?
 SGlau and ChuckN: [Startled] Yes, we are.
 
 Head Mafio: Well, I am seeking vengence on a blog comment the two of you wrote
-and signed as <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany
+and signed as <a href="http://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany
 Alvord</a>, so we are going to wack up this office.
 
 SGlau: Using <a href="http://xkcd.com/322/">Electro-Magnetic
@@ -242,10 +242,10 @@ SGlau: Yes, we may actually drop by.
 
 [<b>TODO:</b> Add:
 
-1. "Stop Summer-time!" by M.C. Summer (<a href="https://www.youtube.com/watch?v=otCpCn0l4Wo">M.C. Hammer’s “Stop! Hammer Time”</a> parody).
+1. "Stop Summer-time!" by M.C. Summer (<a href="http://www.youtube.com/watch?v=otCpCn0l4Wo">M.C. Hammer’s “Stop! Hammer Time”</a> parody).
 
 2. “Carpe diem” song at the end -
-<a href="https://www.youtube.com/watch?v=10PBekTNXoo">Caitlin
+<a href="http://www.youtube.com/watch?v=10PBekTNXoo">Caitlin
 Hart’s “7 minutes”</a>.
 
 ]
