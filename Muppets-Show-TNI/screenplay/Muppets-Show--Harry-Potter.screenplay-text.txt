@@ -111,7 +111,7 @@ Harry: Mr. Mumford, I hereby propose my friend, the beautiful Hermione.
 Hermione: Ahem… actually I kinda have a bad hair day today, so I think
 your assistant should be the beautiful Harry (Potter!) here.
 
-Harry: Very well, I shall be the beautiful assistant.
+Harry: Very well, in that case, I shall be the beautiful assistant.
 
 Miss Piggy: Stand back, Mister!
 
@@ -128,6 +128,13 @@ miles.
 Miss Piggy: Indeed.
 <a href="http://en.wikipedia.org/wiki/Candice_Swanepoel">Candice Swanepoel</a>
 ain’t got nothing on… Moi!
+
+[TODO : Add:
+
+1. Spoof of <a href="https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey">The miller, his son and the donkey</a> called
+"The magician, his son, his daughter, and the donkey." with Hermione and Harry
+Potter and with <a href="http://shrek.wikia.com/wiki/Donkey">Donkey from Shrek</a>.
+]
 
 </s>
 
