@@ -1,8 +1,8 @@
-<s id="muppets-with-SGlau-and-Chuck" title="The Muppets’ Show (The New Incarnation) With Summer Glau and Chuck Norris">
+<s id="muppets-with-SGlau-and-Chuck" title="The Muppets’ Show (The Next Incarnation) With Summer Glau and Chuck Norris">
 
 <s id="about" title="About this screenplay">
 
-[The Muppets’ Show (The New Incarnation) With Summer Glau and Chuck Norris
+[The Muppets’ Show (The Next Incarnation) With Summer Glau and Chuck Norris
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and

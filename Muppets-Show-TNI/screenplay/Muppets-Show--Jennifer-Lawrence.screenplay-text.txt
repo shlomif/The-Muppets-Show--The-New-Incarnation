@@ -1,8 +1,8 @@
-<s id="muppets-with-Jenn-Lawrence" title="The Muppets’ Show (The New Incarnation) With Jennifer Lawrence">
+<s id="muppets-with-Jenn-Lawrence" title="The Muppets’ Show (The Next Incarnation) With Jennifer Lawrence">
 
 <s id="about" title="About this screenplay">
 
-[The Muppets’ Show (The New Incarnation) With Jennifer Lawrence
+[The Muppets’ Show (The Next Incarnation) With Jennifer Lawrence
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and

@@ -1,8 +1,8 @@
-<s id="muppets-with-Harry-Potter" title="The Muppets’ Show (The New Incarnation) about Harry Potter">
+<s id="muppets-with-Harry-Potter" title="The Muppets’ Show (The Next Incarnation) about Harry Potter">
 
 <s id="about" title="About this screenplay">
 
-[The Muppets’ Show (The New Incarnation) About Harry Potter
+[The Muppets’ Show (The Next Incarnation) About Harry Potter
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
