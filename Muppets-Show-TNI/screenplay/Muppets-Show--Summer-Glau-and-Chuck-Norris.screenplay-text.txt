@@ -255,6 +255,35 @@ Hart’s “7 minutes”</a>.
 
 </s>
 
+<s id="having_some_fun_with_company" title="Having some fun with company.">
+
+[Kermit, ChuckN and SGlau are sitting together.]
+
+Kermit: So, Mr. Norris, Ms. Glau, I admit things turned out better than
+expected eventually.
+
+ChuckN: Yes, Kermit, they did. Grammar Nazism are now the good guys.
+
+Kermit: Yes, I can see that. So what are you planning to do next?
+
+SGlau: Well, Chuck and I think of having some clean good fun with the
+company of our friends. Wanna join us, Kermit?
+
+Kermit: Sure, the muppets and I would love to.
+
+SGlau: Excellent. Hit it, Animal.
+
+[Animal starts playing the drums and shouts “Carpe Diem!”. SGlau opens her
+jacket’s zipper to reveal a T-shirt with
+<a href="https://xkcd.com/55/">the “Useless” xkcd comic</a> and they all start
+singing <a href="https://www.youtube.com/watch?v=10PBekTNXoo">“7 Minutes”
+by Caitlin Hart</a>, along with Hart, the Mafios, Lucky Luke, the Grammar
+Nazis, and the Head Mafio’s niece and her friends.]
+
+<!-- / having_some_fun_with_company -->
+
+</s>
+
 <!-- / muppets-with-SGlau-and-Chuck -->
 
 </s>
