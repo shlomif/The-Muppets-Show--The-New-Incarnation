@@ -18,9 +18,7 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 );
 $obj->run;
 
-my $gfx = $obj->gfx;
 my $filename = $obj->filename;
-my $out_fn = $obj->out_fn;
 
 my $base_part = 'Muppets-Show--';
 foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
