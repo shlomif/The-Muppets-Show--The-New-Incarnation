@@ -7,14 +7,20 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB;
 
-my $obj = Shlomif::Screenplays::EPUB->new;
+my $gfx = 'Muppet-Show-TNI-Logo--take1.svg.png';
+my $obj = Shlomif::Screenplays::EPUB->new(
+    {
+        images =>
+        {
+            $gfx => "images/$gfx",
+        },
+    }
+);
 $obj->run;
 
 my $gfx = $obj->gfx;
 my $filename = $obj->filename;
 my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
-
 
 my $base_part = 'Muppets-Show--';
 foreach my $part ($filename =~ /\A\Q$base_part\E([^\.]+)/g)
