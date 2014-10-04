@@ -16,7 +16,10 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Muppet-Show-TNI-Logo--take1.svg">
+   sodipodi:docname="Muppet-Show-TNI-Logo--take1.svg"
+   inkscape:export-filename="/home/shlomif/Docs/homepage/homepage/_trunk--clones/The-Muppets-Show--The-New-Incarnation/Muppets-Show-TNI/graphics/logo/Muppet-Show-TNI-Logo--take1--200w.png"
+   inkscape:export-xdpi="34.879498"
+   inkscape:export-ydpi="34.879498">
   <defs
      id="defs3">
     <linearGradient
@@ -248,9 +251,9 @@
      inkscape:window-width="772"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="147.22475"
-     inkscape:cx="446.08176"
-     inkscape:zoom="1.4149866"
+     inkscape:cy="122"
+     inkscape:cx="258.03125"
+     inkscape:zoom="1.2459731"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -281,6 +284,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
