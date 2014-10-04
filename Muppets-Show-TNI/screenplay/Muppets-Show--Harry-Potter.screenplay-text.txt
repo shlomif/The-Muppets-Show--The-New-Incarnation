@@ -101,10 +101,26 @@ Dumbledore Two: Me didn’t say who must not name him.
 
 </s>
 
+<s id="the_amazing_mumford" title="The Amazing Mumford">
+
+[ Harry and Hermione go to see the Amazing Mumford, and notice his
+magic is indeed awful. After the first performance, they talk to him
+behind the stage, and understand that he is afraid to fail. So they tell
+him that it’s OK if he fails, if people don’t like him too much,
+that even very experienced people fail some times, and that he should
+just be himself. After that his magic becomes much better.
+
+]
+
+
+</s>
+
 <s id="the_beautiful_assistant" title="The Beautiful Assistant">
 
 The Amazing Mumford: And for my next trick, I will require a beautiful
 assistant.
+
+Harry: [to Hermione] That could our chance.
 
 Harry: Mr. Mumford, I hereby propose my friend, the beautiful Hermione.
 
@@ -168,14 +184,45 @@ People: Look at them they have a donkey and they do not utilise it.
 JKR’s voice: The Magician, his son, his daughter, and the donkey, consulted
 between themselves what to do. [They huddle in a circle.]
 
-[Harry Potter and Hermione get on Donkey, and they contain.]
+[Harry Potter and Hermione get on Donkey, and they continue.]
 
 Donkey: Yo, Harry, Hermione, You think it’s easy carrying you both! You’re
 killing me here. That’s not the way to treat a talking donkey.
 
 JKR’s voice: And they ran into more critics.
 
-[ <b>TODO</b> = FILL IN. ]
+People: Look at it, both children ride the donkey and he’s suffering and
+complaining. Oh the humanity!
+
+JKR’s voice: Then the magician had an idea.
+
+The Amazing Mumford: A la peanut butter sandwiches!
+
+JKR’s voice: And the donkey turned into a big and strong stallion [ similar
+to the film Shrek 2].
+
+Donkey: Yeah Mumma! I’m a stallion, baby!
+
+JKR’s voice: And he had no problem carrying the son and the daughter.
+
++++: So they went on their way and soon met more critics.
+
+[ They eventually summon a large part of the
+<a href="https://en.wikipedia.org/wiki/United_States_Cavalry">United
+States Cavalry</a> for protection, as well as
+<a href="http://tolkiengateway.net/wiki/Eagles">Eagle</a>-mounted Tolkienian
+elves for aerial protection, and then arrive at the market and they all
+have a good time. ]
+
+JKR: [in the Sesame Street setting] So the moral of the story is… frankly I
+have no idea! But I do know that magic is an awesome thing to have at your
+disposal.
+
+</s>
+
+<s id="kermit_the_frog_chat" title="Kermit the Frog Chats with JKR, Emma Watson and Daniel Radcliffe">
+
+[ TODO : FILL IN. ]
 
 </s>
 
