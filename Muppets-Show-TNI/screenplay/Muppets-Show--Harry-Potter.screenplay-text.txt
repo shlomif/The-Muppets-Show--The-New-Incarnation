@@ -1,4 +1,4 @@
-<s id="muppets-with-Harry-Potter" title="The Muppets’ Show (The Next Incarnation) about Harry Potter">
+<s id="muppets-with-Harry-Potter" lang="en" title="The Muppets’ Show (The Next Incarnation) about Harry Potter">
 
 <s id="about" title="About this screenplay">
 

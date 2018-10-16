@@ -1,4 +1,4 @@
-<s id="muppets-with-SGlau-and-Chuck" title="The Muppets’ Show (The Next Incarnation) With Summer Glau and Chuck Norris">
+<s id="muppets-with-SGlau-and-Chuck" lang="en" title="The Muppets’ Show (The Next Incarnation) With Summer Glau and Chuck Norris">
 
 <s id="about" title="About this screenplay">
 

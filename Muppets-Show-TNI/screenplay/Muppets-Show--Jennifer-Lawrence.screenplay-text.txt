@@ -1,4 +1,4 @@
-<s id="muppets-with-Jenn-Lawrence" title="The Muppets’ Show (The Next Incarnation) With Jennifer Lawrence">
+<s id="muppets-with-Jenn-Lawrence" lang="en" title="The Muppets’ Show (The Next Incarnation) With Jennifer Lawrence">
 
 <s id="about" title="About this screenplay">
 
