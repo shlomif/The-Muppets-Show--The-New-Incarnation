@@ -151,7 +151,12 @@ SGlau: Of course, we’ll do anything for the noble Grammar Reich!
 
 <s id="cant_touch_her" title="“Can’t touch her [Stop! Summer Time]”">
 
-[<b>TODO: FILL IN</b>]
+[<b>TODO:</b> Add:
+
+1. "You can't touch her"/"Stop! Summer time!" by M.C. Summer (<a href="http://www.youtube.com/watch?v=otCpCn0l4Wo">M.C. Hammer’s “You can't touch this (Stop! Hammer Time!)”</a> parody).
+
+]
+
 </s>
 
 <s id="venting_is_us" title="“Venting Is Us.”">
@@ -250,16 +255,6 @@ ChuckN: Why, thank you!
 
 SGlau: Yes, we may actually drop by.
 
-[<b>TODO:</b> Add:
-
-1. "You can't touch her"/"Stop! Summer time!" by M.C. Summer (<a href="http://www.youtube.com/watch?v=otCpCn0l4Wo">M.C. Hammer’s “You can't touch this (Stop! Hammer Time!)”</a> parody).
-
-2. “Carpe diem” song at the end -
-<a href="http://www.youtube.com/watch?v=10PBekTNXoo">Caitlin
-Hart’s “7 minutes”</a>.
-
-]
-
 <!-- / venting_is_us -->
 
 </s>
@@ -280,9 +275,9 @@ company of our friends. Wanna join us, Kermit?
 
 Kermit: Sure, the muppets and I would love to.
 
-SGlau: Excellent. Hit it, Animal.
+SGlau: Excellent. Hit it, <a href="https://muppet.fandom.com/wiki/Animal">Animal</a>!
 
-[Animal starts playing the drums and shouts “Carpe Diem!”. SGlau opens her
+[Animal starts playing the drums and shouts “Carpe Diem! Hah hah hah”. SGlau opens her
 jacket’s zipper to reveal a T-shirt with
 <a href="https://xkcd.com/55/">the “Useless” xkcd comic</a> and they all start
 singing <a href="https://www.youtube.com/watch?v=10PBekTNXoo">“7 Minutes”
