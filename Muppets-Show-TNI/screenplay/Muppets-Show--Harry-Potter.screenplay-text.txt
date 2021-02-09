@@ -104,11 +104,11 @@ Dumbledore Two: Me didn’t say who must not name him.
 <s id="the_amazing_mumford" title="The Amazing Mumford">
 
 [ Harry and Hermione go to see the Amazing Mumford, and notice his
-magic is indeed awful. After the first performance, they talk to him
+stage magic is indeed awful. After the first performance, they talk to him
 behind the stage, and understand that he is afraid to fail. So they tell
-him that it’s OK if he fails, if people don’t like him too much,
+him that it is OK if he fails, if people don’t like him too much,
 that even very experienced people fail some times, and that he should
-just be himself. After that his magic becomes much better.
+just be himself. After that his stage magic becomes much better.
 
 ]
 
@@ -133,7 +133,7 @@ Miss Piggy: Stand back, Mister!
 
 Harry: What?
 
-Miss Piggy: I am going to be the most beautiful assistant. (She flicks her
+Miss Piggy: I am going to be <b>the</b> most beautiful assistant. (She flicks her
 hair.)
 
 [Harry and Hermione look at her in amazement.]
@@ -145,16 +145,16 @@ Miss Piggy: Indeed.
 <a href="http://en.wikipedia.org/wiki/Candice_Swanepoel">Candice Swanepoel</a>
 ain’t got nothing on… Moi!
 
-[TODO : Add:
-
-1. Spoof of <a href="https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey">The miller, his son and the donkey</a> called
-"The magician, his son, his daughter, and the donkey." with Hermione and Harry
-Potter and with <a href="http://shrek.wikia.com/wiki/Donkey">Donkey from Shrek</a>.
-]
-
 </s>
 
 <s id="magician_donkey_and_market" title="The Magician, His Son, His Daughter, and the Donkey">
+
+[
+
+Spoof of <a href="https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey">The miller, his son and the donkey</a> called
+"The magician, his son, his daughter, and the donkey." with Hermione and Harry
+Potter and with <a href="http://shrek.wikia.com/wiki/Donkey">Donkey from Shrek</a>.
+]
 
 JKR’s voice: Today I’m going to tell you an old tale - a fable - about the
 Magician…
@@ -218,6 +218,8 @@ JKR: [in the Sesame Street setting] So the moral of the story is… frankly I
 have no idea! But I do know that magic is an awesome thing to have at your
 disposal.
 
++++: And if you do not… then just try to avoid pleasing everyone.
+
 </s>
 
 <s id="kermit_the_frog_chat" title="Kermit the Frog Chats with JKR, Emma Watson and Daniel Radcliffe">
@@ -265,4 +267,3 @@ Love in all you do!
 <!-- / summerschool-at-the-NSA (Main) -->
 
 </s>
-
