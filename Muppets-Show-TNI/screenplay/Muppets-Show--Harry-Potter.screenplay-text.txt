@@ -1,8 +1,8 @@
-<s id="muppets-with-Harry-Potter" lang="en" title="The Muppets’ Show (The Next Incarnation) about Harry Potter">
+<s id="sesame-street-with-Harry-Potter" lang="en" title="Sesame Street about Harry Potter">
 
 <s id="about" title="About this screenplay">
 
-[The Muppets’ Show (The Next Incarnation) About Harry Potter
+[Sesame Street Hosting the Harry Potter Franchise
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
@@ -46,7 +46,7 @@ Harry: She’s doing fine. Things have been relatively quiet after old
 <a href="http://harrypotter.wikia.com/wiki/Tom_Riddle">Voldemort</a>’s
 demise, but we ought not to rest on our Laurels.
 
-Hermione: no, we should not.
+Hermione: indeed, we should not.
 
 [A waitress arrives with their order.]
 
@@ -67,7 +67,7 @@ JKR’s voice: And shortly after that, Harry and Hermione saw someone very much
 like the late
 <a href="http://harrypotter.wikia.com/wiki/Albus_Dumbledore">Dumbledore</a>.
 
-[Dumbledore Two who looks like Cookie Monster with a Dumbledore-like hat
+[Dumbledore Two who looks like <a href="https://muppet.fandom.com/wiki/Cookie_Monster">Cookie Monster</a> with a Dumbledore-like hat
 appears.]
 
 [Harry and Hermione look at him with amazement.]
@@ -145,6 +145,8 @@ Miss Piggy: Indeed.
 <a href="http://en.wikipedia.org/wiki/Candice_Swanepoel">Candice Swanepoel</a>
 ain’t got nothing on… Moi!
 
+[ Note: Ms. Swanepoel was chosen due to topping <a href="https://en.wikipedia.org/wiki/Maxim_(magazine)#Maxim_Hot_100">the 2014 Maxim Hot 100</a>. ]
+
 </s>
 
 <s id="magician_donkey_and_market" title="The Magician, His Son, His Daughter, and the Donkey">
@@ -215,10 +217,10 @@ elves for aerial protection, and then arrive at the market and they all
 have a good time. ]
 
 JKR: [in the Sesame Street setting] So the moral of the story is… frankly I
-have no idea! But I do know that magic is an awesome thing to have at your
+have no idea! But I do know that magic is a splendid thing to have at your
 disposal.
 
-+++: And if you do not… then just try to avoid pleasing everyone.
++++: And if you do not possess magic… then just try to avoid pleasing everyone.
 
 </s>
 
@@ -264,6 +266,6 @@ Love in all you do!
 
 </s>
 
-<!-- / summerschool-at-the-NSA (Main) -->
+<!-- sesame-street-with-Harry-Potter / (Main) -->
 
 </s>
