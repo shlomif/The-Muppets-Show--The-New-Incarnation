@@ -9,12 +9,11 @@ in a format similar to https://en.wikipedia.org/wiki/The_Muppet_Show
 with modern ( circa 2014 ) cultural references.
 
 The text for them is mostly original by https://www.shlomifish.org/[Shlomi Fish].
-( L<> ).
 
 Links
 -----
 
-* http://www.shlomifish.org/humour/The-Muppet-Show--TNI>[Homepage]
+* http://www.shlomifish.org/humour/The-Muppet-Show--TNI[Homepage]
 
 Building
 --------
