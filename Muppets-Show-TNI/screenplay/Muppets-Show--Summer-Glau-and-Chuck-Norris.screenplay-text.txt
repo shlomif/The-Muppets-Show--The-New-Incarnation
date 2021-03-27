@@ -117,8 +117,9 @@ Grammar Nazi-style.
 
 SGlau: Observe.
 
-[Sudden quick shots as someone shoots all the guns out of SGlau and ChuckN's
-hands and those of the rest of the Grammar Nazi muppets.]
+[Extreme slow motion as there are sudden quick shots as someone shoots all the
+guns out of SGlau and ChuckN's hands and those of the rest of the Grammar Nazi
+muppets.]
 
 SGlau: What the hell?
 
@@ -138,7 +139,7 @@ SGlau: [startled] Hail Grammar!
 
 Lucky Luke: Indeed. There has been a change of plans, so they sent me here.
 
-+++: Miss Glau, Mr. Norris and you must travel undercover to the evil
++++: Ms. Glau, Mr. Norris and you must travel undercover to the evil
 State of California, where you will start the startup “Venting is us.” to
 battle the growing infestation of bad grammar on social Internet media. You
 will receive funding from the Grammar Nazi Gestapo.
@@ -177,7 +178,7 @@ SGlau: How about as
 
 ChuckN: Sounds good. You can sign yours as <a href="http://en.wikipedia.org/wiki/Jennifer_Love_Hewitt">Jennifer Love Hewitt</a>.
 
-SGlau: Cool.
+SGlau: Cool!
 
 [A few muppets who look like Mafios with a human leader storm in.]
 
@@ -212,9 +213,9 @@ ChuckN: Maybe we should surrender?
 SGlau: We can apologise… [thinking] wait!
 
 SGlau: [To the Mafios] Listen, we apologise for attributing all these rebuttals
-to all these good people. Anyway, what do you say of us becoming “Don’t be venting
-- be perfecting” and help people to write essays and articles in
-proper and correct English?
+to all these good people. Anyway, what do you say of us becoming “Don’t be
+venting - be perfecting” and help people to write essays and articles in proper
+and correct English?
 
 Head Mafio: [ He has tears in his eyes. ] Sounds very honourable, Ms. Glau.
 Alright! We’ll give you two another chance.
@@ -274,19 +275,19 @@ ChuckN: Yes, Kermit, they did. The Grammar Nazis are now the good guys.
 
 Kermit: Yes, I can see that. So what are you planning to do next?
 
-SGlau: Well, Chuck and I think of having some good, clean, fun with the
+SGlau: Well, Chuck and I are thinking of having some good, clean, fun with the
 company of our friends. Wanna join us, Kermit?
 
 Kermit: Sure, the muppets and I would love to.
 
 SGlau: Excellent. Hit it, <a href="https://muppet.fandom.com/wiki/Animal">Animal</a>!
 
-[Animal starts playing the drums and shouts “Carpe Diem! Hah hah hah”. SGlau opens her
-jacket’s zipper to reveal a T-shirt with
+[Animal starts playing the drums and shouts “Carpe Diem! Hah hah hah”. SGlau
+opens her jacket’s zipper to reveal a T-shirt with
 <a href="https://xkcd.com/55/">the “Useless” xkcd comic</a> and they all start
-singing <a href="https://www.youtube.com/watch?v=10PBekTNXoo">“7 Minutes”
-by Caitlin Hart</a>, along with Hart, the Mafios, Lucky Luke, the Grammar
-Nazis, the Head Mafio’s niece and her friends.]
+singing <a href="https://www.youtube.com/watch?v=10PBekTNXoo">“7 Minutes” by
+Caitlin Hart</a>, along with Hart, the Mafios, Lucky Luke, the Grammar Nazis,
+the Head Mafio’s niece and her friends.]
 
 <!-- / having_some_fun_with_company -->
 
@@ -295,4 +296,3 @@ Nazis, the Head Mafio’s niece and her friends.]
 <!-- / muppets-with-SGlau-and-Chuck -->
 
 </s>
-
