@@ -124,7 +124,7 @@ Harry: [to Hermione] That could be our chance.
 
 Harry: Mr. Mumford, I hereby propose my friend, the beautiful Hermione.
 
-Hermione: Ahem… actually I kinda have a bad hair day today, so I think
+Hermione: Ahem… actually I kinda have <a href="https://www.youtube.com/watch?v=8N2k-gv6xNE">a bad hair day</a> today, so I think
 your assistant should be the beautiful Harry (Potter!) here.
 
 Harry: Very well, in that case, I shall be the beautiful assistant.
