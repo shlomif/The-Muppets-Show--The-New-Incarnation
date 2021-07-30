@@ -168,7 +168,11 @@ SGlau: Of course! We’ll do everything for the noble Grammar Reich!
 
 [A modern tech office whose door says: “Venting is Us.” with a large version
 of <a href="http://xkcd.com/406/">xkcd: “Venting”</a>. ChuckN and SGlau are
-sitting inside.]
+sitting inside.
+
+<img alt="xkcd 406: Venting" src="./images/xkcd-406-venting.png" />
+
+]
 
 ChuckN: OK, Summer, I finished writing another rebuttal, as whom should I sign
 it?
