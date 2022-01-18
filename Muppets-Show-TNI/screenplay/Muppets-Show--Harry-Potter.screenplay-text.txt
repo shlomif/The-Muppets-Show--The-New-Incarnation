@@ -76,7 +76,7 @@ Harry & Hermione: Dumbledore?
 
 Dumbledore Two: No, me is his successor: Dumbledore Two.
 
-[He takes a 2-like number from behind his back. After a short while, he eats
+[He takes a “2” shape-like Styrofoam number from behind his back. After a short while, he eats
 it.]
 
 Dumbledore Two: Num num num… delicious!
@@ -87,7 +87,7 @@ Dumbledore Two: In any case, Harry, Hermione, it is your mission to fight
 Harry: Really, who is he?
 
 Dumbledore Two: His name is
-<a href="http://muppet.wikia.com/wiki/The_Amazing_Mumford">The Amazing Mumford</a>
+<a href="http://muppet.wikia.com/wiki/The_Amazing_Mumford">The Amazing Mumford</a>,
 and he is an evil dark arts’ wizard, whose magic is so awful that people are
 annoyed and wish to die. You must seek and destroy him.
 
