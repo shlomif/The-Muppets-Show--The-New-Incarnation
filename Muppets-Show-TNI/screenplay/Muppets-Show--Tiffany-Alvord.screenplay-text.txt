@@ -1,0 +1,27 @@
+<s id="muppets-with-Tiffany-Alvord" lang="en" title="The Muppet Show hosting Tiffany Alvord">
+
+<s id="about" title="About this screenplay">
+
+[Sesame Street Hosting Tiffany Alvord
+
+Note: This screenplay was written by
+<a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
+is original artwork.]
+
+[Abstract:]
+
+[This text is Copyright by Shlomi Fish, 2022 and is
+made available under the
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
+(or at your option - any later version).]
+
+</s>
+
+<s id="talk_with_tiffany" title="Talking with Tiffany">
+
+</s>
+
+<!-- sesame-street-with-Harry-Potter / (Main) -->
+
+</s>
