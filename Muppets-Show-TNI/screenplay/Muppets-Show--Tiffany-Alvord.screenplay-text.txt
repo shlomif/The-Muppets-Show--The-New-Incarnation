@@ -2,19 +2,21 @@
 
 <s id="about" title="About this screenplay">
 
-[The Muppets Hosting <a href="https://www.tiffanyalvord.com/">Tiffany Alvord</a>.
+[
+
+The Muppets Hosting <a href="https://www.tiffanyalvord.com/">Tiffany Alvord</a>.
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
-is original artwork.]
+is original artwork.
 
-[Abstract:]
-
-[This text is Copyright by Shlomi Fish, 2022 and is
+This text is Copyright by Shlomi Fish, 2022 and is
 made available under the
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
-(or at your option - any later version).]
+(or at your option - any later version).
+
+]
 
 </s>
 
@@ -56,7 +58,7 @@ Gonzo: why, thanks! [he thinks for a moment] Say: can we kiss again?
 
 Tiffany puts her head in her palm, shakes her head and sighs.
 
-<a href="https://www.youtube.com/watch?v=rfelvI_ikf4&amp;t=171s">Sesame Stret-like disappointment-tune</a>.
+<a href="https://www.youtube.com/watch?v=rfelvI_ikf4&amp;t=171s">Sesame Street-like disappointment-tune</a>.
 
 ]
 
