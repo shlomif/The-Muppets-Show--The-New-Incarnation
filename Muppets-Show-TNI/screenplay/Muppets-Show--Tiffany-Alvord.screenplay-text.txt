@@ -2,7 +2,7 @@
 
 <s id="about" title="About this screenplay">
 
-[Sesame Street Hosting Tiffany Alvord
+[The Muppets Hosting Tiffany Alvord
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
@@ -28,7 +28,10 @@ Kermit: nice! You know, Tiffany, you have that good girl image.
 
 Tiffany: yes, I know. "Jedi in the streets" / etc.
 
-+++: But I do have a "bad girl" and "badass" sides to my personality
++++: But I do have a "bad girl" and "badass" sides to my personality. I
+also tend to get cast into many kissing roles.
+
+Kermit: it has been said that men would kill to kiss you.
 
 </s>
 
