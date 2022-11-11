@@ -50,8 +50,16 @@ Scooter: here's your 500,000 dollars in thousand dollar bills, Gonz.
 
 Gonzo: why, thanks! [he thinks for a moment] Say: can we kiss again?
 
+[
+
+Tiffany puts her head in her palm, shakes her head and sighs.
+
+<a href="https://www.youtube.com/watch?v=rfelvI_ikf4&amp;t=171s">Sesame Stret-like disappointment-tune</a>.
+
+]
+
 </s>
 
-<!-- talk_with_tiffany -->
+<!-- / talk_with_tiffany -->
 
 </s>
