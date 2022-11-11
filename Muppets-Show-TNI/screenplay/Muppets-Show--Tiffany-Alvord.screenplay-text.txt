@@ -24,6 +24,8 @@ Kermit: it is great having you here, Tiffany.
 
 Tiffany: thanks, Kermit; I'm having a great time, too.
 
+Kermit: nice! You know, Tiffany, you have that good girl image.
+
 </s>
 
 <!-- talk_with_tiffany -->
