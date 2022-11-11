@@ -26,6 +26,10 @@ Tiffany: thanks, Kermit; I'm having a great time, too.
 
 Kermit: nice! You know, Tiffany, you have that good girl image.
 
+Tiffany: yes, I know. "Jedi in the streets" / etc.
+
++++: But I do have a "bad girl" and "badass" sides to my personality
+
 </s>
 
 <!-- talk_with_tiffany -->
