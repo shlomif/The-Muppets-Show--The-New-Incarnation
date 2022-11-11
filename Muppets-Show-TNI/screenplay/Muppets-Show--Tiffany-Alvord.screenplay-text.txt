@@ -2,7 +2,7 @@
 
 <s id="about" title="About this screenplay">
 
-[The Muppets Hosting Tiffany Alvord
+[The Muppets Hosting <a href="https://www.tiffanyalvord.com/">Tiffany Alvord</a>.
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
