@@ -68,4 +68,16 @@ Tiffany puts her head in her palm, shakes her head and sighs.
 
 <!-- / talk_with_tiffany -->
 
+<s id="more_wannabe_kissers" title="More wannabe kissers">
+
+[
+
+<a href="https://muppet.fandom.com/wiki/Animal">Animal</a> enters the frame.
+
+]
+
+Animal: Tiffany kiss Animal!
+
+</s>
+
 </s>
