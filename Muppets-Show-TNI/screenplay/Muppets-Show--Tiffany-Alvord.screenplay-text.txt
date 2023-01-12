@@ -89,6 +89,14 @@ Tiffany: hold your ponies, guys! These kisses are not in the script.
 
 +++: But let's do something else that's fun: play basketball!
 
+The others: alright!
+
+</s>
+
+<s id="playing-basketball" title="Playing basketball">
+
+Kermit: [holding a microphone] and here we are in Venice Beach, California,
+
 </s>
 
 </s>
