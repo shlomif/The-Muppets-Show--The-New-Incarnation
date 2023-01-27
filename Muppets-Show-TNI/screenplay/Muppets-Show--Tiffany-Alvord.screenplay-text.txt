@@ -136,4 +136,10 @@ Animal: not fair match, not fair match!
 
 </s>
 
+<s id="the-Mossad-to-the-rescue" title="The Mossad to the Rescue">
+
+[ Several teenagers including Michael walk out of a portal. ]
+
+</s>
+
 </s>
