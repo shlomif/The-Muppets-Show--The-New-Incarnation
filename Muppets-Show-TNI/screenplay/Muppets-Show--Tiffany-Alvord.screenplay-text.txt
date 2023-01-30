@@ -142,9 +142,13 @@ Animal: not fair match, not fair match!
 
 Michael: Greetings all! We are quadruple FBI / Russian Mob / CIA / Mossad agents [ shows his badges ] . Ms. Watson, please read the email that Fluttershy, one of our directors has sent you.
 
-Emma Watson: sure! "dear Emma, first of all, please inform Mr. Big Puff that he has left a cake in the oven, and that he also has received 3 GitHub merge-requests that have passed continuous integration."
+Emma Watson: sure! "dear Emma, first of all, please inform Mr. Big Puff that he has left a cake in the oven, and that he also has received 3 GitHub merge-requests that have passed continuous integration, and that he should review."
 
 Big Puff: oh. Sorry, Em, but I got to go. Bye!
+
+Emma Watson: no problem, Big Puff. I'm in the mood for playing basketball again anyhow.
+
+[ Big Puff walks away. ]
 
 </s>
 
