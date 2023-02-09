@@ -95,7 +95,7 @@ The others: alright!
 
 <s id="playing-basketball" title="Playing basketball">
 
-Kermit: [holding a microphone] and here we are in Venice Beach, California,
+Kermit: [holding a microphone] and here we are in <a href="https://en.wikipedia.org/wiki/Venice,_Los_Angeles#Venice_Beach">Venice Beach, California</a>,
 as the Muppets' basketball team, which consists of Tiffany Alvord, Gonzo
 the Great, Discord, Animal, and… <a href="https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block">Emma Watson</a>.
 
