@@ -160,4 +160,18 @@ Emma Watson: "Sincerely yours, <a href="http://shlomifishswiki.branchable.com/Fl
 
 </s>
 
+<s id="after-playing-basketball" title="After playing basketball">
+
+Animal: good game!
+
+Tiffany: yes, it was a good game.
+
+[
+
+Caption on the screen: “&#91; Tiffany kisses Animal and Discord &#93;”
+
+]
+
+</s>
+
 </s>
