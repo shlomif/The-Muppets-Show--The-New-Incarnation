@@ -192,7 +192,12 @@ Cut to the basketball court's benches.
 
 ]
 
-Tiffany: so, Michael, what do
+Tiffany: so, Michael, what do you like to do aside from multiversal defence,
+and playing basketball?
+
+Michael: oh, software development ( FOSS/etc. ), blogging using static site
+generators and social media and stuff… online chats ( IRC/etc. )… I
+also have a girlfriend.
 
 </s>
 
