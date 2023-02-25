@@ -78,8 +78,8 @@ Tiffany puts her head in her palm, shakes her head and sighs.
 
 Animal: Tiffany kiss Animal!
 
-[ <a href="https://mlp.fandom.com/wiki/Discord">Discord (MLP)</a> materialises
-out of thin air. ]
+[ <a href="https://mlp.fandom.com/wiki/Discord">Discord (from My Little
+Pony)</a> materialises out of thin air. ]
 
 Discord: hey, why does everypony get to kiss Tiffany, and I don't?
 
@@ -142,7 +142,7 @@ Animal: not fair match, not fair match!
 
 Michael: Greetings all! We are quadruple FBI / Russian Mob / CIA / Mossad agents [ shows his badges ] . Ms. Watson, please read the email that Fluttershy, one of our directors has sent you.
 
-Emma Watson: sure! "Dear Emma, first of all, please inform Mr. Big Puff that he has left a cake in the oven, and that he has also received 3 GitHub merge-requests which have passed continuous integration, and which he should review."
+Emma Watson: sure! "Dear Emma, first of all, please inform Mr. Big Puff that he has left a cake in the oven, and that he has also received 3 GitHub <a href="https://en.wikipedia.org/wiki/Distributed_version_control#Pull_requests">merge-requests</a> which have passed <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#what-do-continuous-integration-ci-services-such-as-travis-ci-jenkins-or-appveyor-provide">continuous integration</a>, and which he should review."
 
 Big Puff: oh. Sorry, Em, but I got to go. Bye!
 
@@ -152,7 +152,7 @@ Emma Watson: no problem, Big Puff. I'm in the mood for playing basketball again 
 
 Emma Watson: "Moreover, we suggest the Muppets' basketball team play against our teenage agents, while the Lakers play against the San Francisco 2000ers."
 
-[ SF 2000ers walk out of a portal. ]
+[ San Francisco 2000ers walk out of a portal. ]
 
 LA Lakers’ Captain: works for me.
 
@@ -201,6 +201,9 @@ generators</a> and social media and stuff… online chats ( IRC/etc. )… I
 also have a girlfriend.
 
 +++: There are also other game-games that I like.
+
++++: Occasionally, I'm bored enough to watch an educational video, or read
+a book.
 
 </s>
 
