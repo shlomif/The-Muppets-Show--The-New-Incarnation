@@ -58,7 +58,7 @@ Gonzo: why, thanks! [he thinks for a moment] Say: can we kiss again?
 
 [
 
-Tiffany puts her head in her palm, shakes her head and sighs.
+Tiffany puts her head in her palm, shakes her head, and sighs.
 
 <a href="https://www.youtube.com/watch?v=rfelvI_ikf4&amp;t=171s">Sesame Street-like disappointment-tune</a>.
 
@@ -105,7 +105,7 @@ Animal: honorary Muppets!
 
 Kermit: yes… anyway, they are playing against… the <a href="https://en.wikipedia.org/wiki/Los_Angeles_Lakers">Los Angeles Lakers</a>.
 
-LA Lakers’ Captain: ok - timeout, timeout! The other Lakers and I are professional players. We’ve been practising for years, often several hours a day. Moreover, you are… how should I put it…
+LA Lakers’ Captain: OK - timeout, timeout! The other Lakers and I are professional players. We’ve been practising for years, often several hours a day. Moreover, you are… how should I put it…
 
 Animal: muppets basketballers shorter than Lakers!
 
@@ -140,7 +140,7 @@ Animal: not fair match, not fair match!
 
 [ Several teenagers including Michael walk out of a portal. ]
 
-Michael: Greetings all! We are quadruple FBI / Russian Mob / CIA / Mossad agents [ shows his badges ] . Ms. Watson, please read the email that Fluttershy, one of our directors has sent you.
+Michael: Greetings all! We are quadruple FBI / Russian Mob / CIA / Mossad agents [ shows his badges ] . Ms. Watson, please read the email that Fluttershy, one of our directors, has sent you.
 
 Emma Watson: sure! "Dear Emma, first of all, please inform Mr. Big Puff that he has left a cake in the oven, and that he has also received 3 GitHub <a href="https://en.wikipedia.org/wiki/Distributed_version_control#Pull_requests">merge-requests</a> which have passed <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#what-do-continuous-integration-ci-services-such-as-travis-ci-jenkins-or-appveyor-provide">continuous integration</a>, and which he should review."
 
