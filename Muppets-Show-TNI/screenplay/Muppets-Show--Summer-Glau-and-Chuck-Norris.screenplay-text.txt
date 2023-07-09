@@ -175,7 +175,7 @@ Glau are sitting inside.
 
 ]
 
-Chuck Norris: OK, Summer, I finished writing another rebuttal, as whom should I
+Chuck Norris: OK, Summer, I finished writing another rebuttal. As whom should I
 sign it?
 
 Summer Glau: How about as
@@ -232,7 +232,7 @@ Chuck Norris: Yay!
 Chuck Norris: Finally, note that I find that the Saxon Genitive will be preferable
 there.
 
-Mikhael: [ Russian-sounding Voice from the Internet ] Thank you Mr. Norris.
+Mikhael: [ Russian-sounding Voice from the Internet ] Thank you, Mr. Norris.
 I’ll be forever grateful to you two.
 
 Summer Glau: You’re welcome, Mikhael. We will appreciate some publicity in
@@ -271,7 +271,7 @@ Summer Glau: Yes, we may actually drop by.
 
 <s id="having_some_fun_with_company" title="Having some fun with company.">
 
-[Kermit, Chuck Norris and Summer Glau are sitting together.]
+[Kermit, Chuck Norris, and Summer Glau are sitting together.]
 
 Kermit: So, Mr. Norris, Ms. Glau, I admit things turned out better than
 expected, eventually.
