@@ -195,9 +195,9 @@ Cut to the basketball court's benches.
 Tiffany: so, Michael, what do you like to do aside from multiversal defence,
 and playing basketball?
 
-Michael: oh, software development ( FOSS/etc. ), blogging using
+Michael: oh, software development ( <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">open source</a>/etc. ), blogging using
 <a href="https://www.shlomifish.org/meta/FAQ/#how_site_is_generated">static site
-generators</a> and social media and stuff… online chats ( IRC/etc. )… I
+generators</a> and social media and stuff… online chats ( <a href="https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml">IRC</a>/etc. )… I
 also have a girlfriend.
 
 +++: There are also other game-games that I like.
