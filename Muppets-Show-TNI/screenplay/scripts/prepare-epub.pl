@@ -5,7 +5,7 @@ use warnings;
 
 use utf8;
 
-use Shlomif::Screenplays::EPUB;
+use Shlomif::Screenplays::EPUB ();
 
 my $gfx = 'Muppet-Show-TNI-Logo--take1.svg.png';
 my $obj = Shlomif::Screenplays::EPUB->new(
@@ -31,7 +31,7 @@ foreach my $part ( path($filename)->basename =~ /\A\Q$base_part\E([^\.]+)/g )
         {
             data => {
                 filename => $epub_basename,
-                title =>
+                title    =>
                     qq/The Muppets Show - The Next Incarnation - Part $part/,
                 authors => [
                     {
@@ -45,7 +45,7 @@ foreach my $part ( path($filename)->basename =~ /\A\Q$base_part\E([^\.]+)/g )
                         role => "oth",
                     },
                 ],
-                cover => "images/$gfx",
+                cover  => "images/$gfx",
                 rights =>
 "Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
                 publisher  => 'http://www.shlomifish.org/',
@@ -53,7 +53,7 @@ foreach my $part ( path($filename)->basename =~ /\A\Q$base_part\E([^\.]+)/g )
                 subjects   => [ 'FICTION/Humorous', 'FICTION/Mashups', ],
                 identifier => {
                     scheme => 'URL',
-                    value =>
+                    value  =>
                         'http://www.shlomifish.org/humour/Muppets-Show-TNI/',
                 },
             },
