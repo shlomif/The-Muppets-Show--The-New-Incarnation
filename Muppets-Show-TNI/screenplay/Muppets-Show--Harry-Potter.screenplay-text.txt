@@ -106,7 +106,7 @@ stage magic is indeed awful. After the first performance, they talk to him
 behind the stage, and understand that he is afraid to fail. So they tell
 him that it is OK if he fails, if people don’t like him too much,
 that even very experienced people fail some times, and that he should
-just be himself. After that his stage magic becomes much better.
+just be himself. After that, his stage magic becomes much better.
 
 ]
 
@@ -186,7 +186,7 @@ between themselves what to do. [They huddle in a circle.]
 
 [Harry Potter and Hermione get on Donkey, and they continue.]
 
-Donkey: Yo, Harry, Hermione, You think it’s easy carrying you both! You’re
+Donkey: Yo, Harry, Hermione! You think it’s easy carrying you both! You’re
 killing me here. That’s not the way to treat a talking donkey.
 
 JKR’s voice: And they ran into more critics.
@@ -255,7 +255,7 @@ disposal.
 
 </s>
 
-<s id="kermit_the_frog_chat" title="Kermit the Frog Chats with JKR, Emma Watson and Daniel Radcliffe">
+<s id="kermit_the_frog_chat" title="Kermit the Frog Chats with JKR, Emma Watson, and Daniel Radcliffe">
 
 [ TODO : FILL IN. ]
 
@@ -266,8 +266,8 @@ disposal.
 [<a href="https://en.wikipedia.org/wiki/Paul_McCartney">Paul McCartney</a>
 sings a modernised version of
 <a href="https://en.wikipedia.org/wiki/All_You_Need_Is_Love">“All You Need
-Is Love”</a> titled “Do It All With Love” - same music - different
-lyrics - accompanied by the Muppets’ band and the episode’s cast and
+Is Love”</a> titled “Do It All With Love”. Same music - different
+lyrics. Accompanied by the Muppets’ band and the episode’s cast and
 audience.]
 
 Song Lyrics: Everything you do, really should be done<br />
